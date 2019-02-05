@@ -60,5 +60,4 @@ class ScriptRoute implements
     {
         return new ScriptRouteConfig($data);
     }
-
 }

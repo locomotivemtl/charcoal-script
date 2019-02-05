@@ -23,7 +23,6 @@ use League\CLImate\Util\Reader\ReaderInterface;
 // From 'charcoal-config'
 use Charcoal\Config\AbstractEntity;
 
-
 /**
  * Abstract CLI Script
  */
